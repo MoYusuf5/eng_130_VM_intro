@@ -42,6 +42,8 @@
 - `vagrant reload` or `vagrant destroy` then `vagrant up`
 - `rm -rf .vagrant` then `vagrant up`
 
+![vagrant_dev_env](images/vagrant_dev-env.jpg)
+
 ## What is Virtualisation?
 Virtualization is the process of running a virtual instance of a computer system in a layer separate from the actual hardware.
 
